@@ -1,0 +1,25 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "description": "A powerful smartphone with advanced features.",
+      "price": 499.99,
+      "quantity_available": 100
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "description": "A high-performance laptop suitable for work and entertainment.",
+      "price": 999.99,
+      "quantity_available": 50
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Noise-cancelling headphones for immersive audio experience.",
+      "price": "200",
+      "quantity_available": 200
+    }
+  ]
+}
